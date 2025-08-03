@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gc7ps0fzZwo=",
+  "success": true,
+  "projectFilePath": "C:\\test\\csharp\\app2\\app2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QZhang16\\.nuget\\packages\\system.data.odbc\\9.0.7\\system.data.odbc.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

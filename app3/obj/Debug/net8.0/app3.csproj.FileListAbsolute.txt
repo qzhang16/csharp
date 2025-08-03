@@ -1,0 +1,12 @@
+C:\test\csharp\app3\bin\Debug\net8.0\app3.deps.json
+C:\test\csharp\app3\bin\Debug\net8.0\app3.dll
+C:\test\csharp\app3\bin\Debug\net8.0\app3.pdb
+C:\test\csharp\app3\obj\Debug\net8.0\app3.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\csharp\app3\obj\Debug\net8.0\app3.AssemblyInfoInputs.cache
+C:\test\csharp\app3\obj\Debug\net8.0\app3.AssemblyInfo.cs
+C:\test\csharp\app3\obj\Debug\net8.0\app3.csproj.CoreCompileInputs.cache
+C:\test\csharp\app3\obj\Debug\net8.0\app3.dll
+C:\test\csharp\app3\obj\Debug\net8.0\refint\app3.dll
+C:\test\csharp\app3\obj\Debug\net8.0\app3.pdb
+C:\test\csharp\app3\obj\Debug\net8.0\ref\app3.dll
+c:\test\csharp\app3\obj\Debug\net8.0\app3.csproj.AssemblyReference.cache
