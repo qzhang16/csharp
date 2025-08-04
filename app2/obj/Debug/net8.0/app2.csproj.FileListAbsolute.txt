@@ -19,3 +19,4 @@ C:\test\csharp\app2\obj\Debug\net8.0\ref\app2.dll
 c:\test\csharp\app2\bin\Debug\net8.0\System.Data.Odbc.dll
 c:\test\csharp\app2\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.Odbc.dll
 c:\test\csharp\app2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.Odbc.dll
+C:\test\csharp\app2\obj\Debug\net8.0\app2.sourcelink.json

@@ -10,3 +10,4 @@ C:\test\csharp\app3\obj\Debug\net8.0\refint\app3.dll
 C:\test\csharp\app3\obj\Debug\net8.0\app3.pdb
 C:\test\csharp\app3\obj\Debug\net8.0\ref\app3.dll
 c:\test\csharp\app3\obj\Debug\net8.0\app3.csproj.AssemblyReference.cache
+C:\test\csharp\app3\obj\Debug\net8.0\app3.sourcelink.json
