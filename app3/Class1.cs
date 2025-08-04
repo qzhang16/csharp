@@ -5,14 +5,11 @@ namespace app3
 {
     public class Class1
     {
-        public string Abc { get; set; }
-        public Class1( string a) {
-            this.Abc = a;
-        }
+
 
         public void Ace01()
         {
-            Console.WriteLine("hello from Ace01 !" + Abc);
+            Console.WriteLine("hello from Ace01 !");
             string connectionString = "DSN=PLEX;Uid=qzhang16;";
             using (OdbcConnection conn = new OdbcConnection(connectionString))
             {
